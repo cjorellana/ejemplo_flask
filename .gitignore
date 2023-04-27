@@ -1,0 +1,40 @@
+# Archivos de bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.gh
+
+# Entornos virtuales
+venv/
+*.venv
+.env
+
+# Archivos de configuración de Flask
+instance/
+
+# Archivos y carpetas específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log y base de datos
+*.log
+*.sqlite
+
+# Archivos de los editores y herramientas
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.bak
+*.tmp
+*.sublime*
+*.vscode/
+*.idea/
+*.project
+*.pydevproject
+*.tmproj
+*.settings/
+*.metadata/
+*.tags*.*
